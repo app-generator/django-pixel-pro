@@ -2,7 +2,8 @@ django
 gunicorn
 python-dotenv
 whitenoise
-django-theme-pixel==1.0.2
+git+https://${GITHUB_TOKEN}@github.com/app-generator/priv-django-theme-pixel-pro
+
 
 # psycopg2-binary
 # mysqlclient
