@@ -21,6 +21,7 @@ The product is designed to deliver the best possible user experience with highly
 - ✅ `Docker`
 - 🚀 `Deployment` 
   - `CI/CD` flow via `Render`
+  - [Django Pixel - Go LIVE](https://www.youtube.com/watch?v=GkxnFM3hq9g) - `video presentation`
 
 <br />
 
