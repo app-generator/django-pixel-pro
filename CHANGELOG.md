@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.1] 2023-04-21
+### Changes
+
+- Update Settings
+  - Added Local Template Directory
+
 ## [1.0.0] 2023-01-18
 ### Changes
 
