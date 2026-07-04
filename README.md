@@ -1,4 +1,4 @@
-# [Django Pixel PRO](https://appseed.us/product/pixel-bootstrap/django/)
+# [Django Pixel PRO](https://app-generator.dev/product/)
 
 **Django** starter crafted on top of **Pixel Bootstrap 5**, a premium design from `Themesberg`.
 The product is designed to deliver the best possible user experience with highly customizable, feature-rich pages. 
